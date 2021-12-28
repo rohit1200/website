@@ -1,0 +1,121 @@
+.top-container {
+  background-color: #95D1CC;
+  position: relative;
+  width: auto;
+  height: 1400px;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #95D1CC;
+  position: relative;
+
+}
+.bottom-container{
+  background-color: #95D1CC;
+
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.buttom-cloud {
+  position: absolute;
+  background-position: center;
+  right: 800px;
+  top: 300px;
+  height: 70px;
+  width: 200px;
+}
+
+.mountain {
+  margin-bottom: 0px;
+
+  height: auto;
+  width: 900px;
+}
+
+h1 {
+  font-size: 5.625em;
+  line-height: 2;
+  margin-top: 0;
+  font-family: 'sacramento', cursive;
+  color: #66bfbf;
+  margin: 50px auto 0 auto;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+body {
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  color: cadetblue;
+}
+
+.sean1 {
+  background-position: center;
+  width: 50%;
+  margin-right: 50px;
+
+
+}
+
+.sean2 {
+  background-position: center;
+  background-color: #DE8971;
+  height: auto;
+  width: 50%;
+}
+
+h3 {
+  font-style: 'Pushster'oblique, cursive;
+  color: #66bfbf;
+}
+
+a {
+  color: #11999e;
+}
+.pro{
+  text-decoration: underline;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.profile{
+  background-position: center;
+  background-color: #95D1CC;
+
+}
+
+.rohit{
+  width:10%;
+  background-position: center;
+}
+ol{
+  color: #11999e;
+
+}
